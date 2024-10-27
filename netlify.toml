@@ -3,9 +3,6 @@
   command = "npm run build"
 [[redirects]]
   force = true
-  from = "/admin/config.json"
+  from = "/admin/model/"
   status = 200
-  to = "https://vasyl-content-model.netlify.app/config.json"
-  from = "/admin/sveltia-cms.js"
-  status = 200
-  to = "https://vasyl-content-model.netlify.app/sveltia-cms.js"
+  to = "https://vasyl-content-model.netlify.app/"
