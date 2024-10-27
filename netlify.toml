@@ -6,7 +6,6 @@
   from = "/admin/config.json"
   status = 200
   to = "https://vasyl-content-model.netlify.app/config.json"
-  force = true
   from = "/admin/sveltia-cms.js"
   status = 200
   to = "https://vasyl-content-model.netlify.app/sveltia-cms.js"
